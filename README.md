@@ -31,10 +31,11 @@
   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></p>
 <br/>
+
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvereon-rs&include_all_commits=true&count_private=true&show_icons=true&hide=issues&line_height=20&title_color=ff2e57&icon_color=ff2e57&text_color=ffffff&bg_color=0,060C1C,060C1C" alt="Rajat's Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvereon-rs&show_icons=true&locale=en&layout=compact&&title_color=ff2e57&icon_color=ff2e57&text_color=ffffff&bg_color=0,060C1C,060C1C" alt="ovi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvereon-rs&show_icons=true&locale=en&layout=compact&&title_color=ff2e57&line_height=20&icon_color=ff2e57&text_color=ffffff&bg_color=0,060C1C,060C1C" alt="ovi" />
 </p>
 
 - 👋 Hi, I’m @silvereon-rs
