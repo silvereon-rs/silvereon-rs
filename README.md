@@ -46,10 +46,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/silvereon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/silvereon/"><img src="https://img.shields.io/badge/Rajat Singh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rajat.14101999@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.instagram.com/silvereon.music/"><img alt="Instagram" src="https://img.shields.io/badge/<silvereon.music>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/<Rajat Singh>-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<a href="https://www.instagram.com/silvereon.music/"><img alt="Instagram" src="https://img.shields.io/badge/silvereon.music-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/Rajat Singh-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 
 - 👋 Hi, I’m @silvereon-rs
 - 👀 I’m interested in ...
