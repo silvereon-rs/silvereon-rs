@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvereon-rs&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=ff7063&icon_color=ff7063&text_color=ffffff&bg_color=0,000000,d11100" alt="Rajat's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvereon-rs&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=#E81350&icon_color=#E81350&text_color=ffffff&bg_color=0,#060C1C,#060C1C" alt="Rajat's Github Stats">
 
 
 
