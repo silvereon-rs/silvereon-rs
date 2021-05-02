@@ -53,16 +53,17 @@
 <a href="https://www.instagram.com/silvereon.music/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp;
 <a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>&nbsp;
 <a href="https://discord.gg/zTNwegCb"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
+  </a>
 <img align="right" height="170px" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 </p>
 </br>
-  
+<h4>  
 - 💼 I'm a 3rd Year Computer Science and Engineering Student
 - 🎹 Also a part-time Pianist
 - 👀 Interested in Coding and Graphic Designing
 - 🌱 I’m currently learning Web Development
 - 💞️ Looking to collaborate on Coding, App Development and Web Development
-
+  </h4>
 <!---
 silvereon-rs/silvereon-rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
