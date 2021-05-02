@@ -1,6 +1,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvereon-rs&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=ff2e57&icon_color=ff2e57&text_color=ffffff&bg_color=0,060C1C,060C1C" alt="Rajat's Github Stats">
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvereon-rs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-profile-trophy.vercel.app/?username=silvereon-rs&theme=juicyfresh&no-bg=true" />
 
 
 - 👋 Hi, I’m @silvereon-rs
