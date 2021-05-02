@@ -47,7 +47,7 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/silvereon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:rajat.14101999@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:rajat.14101999@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.hackerrank.com/silvereon"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>&nbsp;
 <a href="https://www.instagram.com/silvereon.music/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp;
 <a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>&nbsp;
