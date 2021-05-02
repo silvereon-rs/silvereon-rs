@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ Looking to collaborate on Coding, App Development and Web Development
   </h4>
+  </br>
 
 <h3> 🛠&nbsp;My Tech Tools</h3>
 
