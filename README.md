@@ -2,14 +2,13 @@
 
 ![Cover Image](https://github.com/silvereon-rs/silvereon-rs/blob/main/cover.jpg)
 
-<h3> ⭐&nbsp;About Me</h3><h4>  
+<h3> ⭐&nbsp;About Me</h3><h4> <img align="right" height="170px" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
   
 - 💼 I'm a 3rd Year Computer Science and Engineering Student
 - 🎹 Also a part-time Pianist
 - 👀 Interested in Coding and Graphic Designing
 - 🌱 I’m currently learning Web Development
 - 💞️ Looking to collaborate on Coding, App Development and Web Development
-<img align="right" height="170px" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
   </h4>
   </br>
 
