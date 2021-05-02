@@ -39,9 +39,17 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvereon-rs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ff2e57&icon_color=ff2e57&text_color=ffffff&bg_color=0,060C1C,060C1C" alt="Rajat's Github Stats">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvereon-rs&show_icons=true&locale=en&layout=compact&&title_color=ff2e57&line_height=20&icon_color=ff2e57&text_color=ffffff&bg_color=0,060C1C,060C1C" alt="ovi" />
 </p>
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/silvereon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:rajat.14101999@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.instagram.com/silvereon.music/"><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 
 - 👋 Hi, I’m @silvereon-rs
 - 👀 I’m interested in ...
