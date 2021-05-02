@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajat Singh </h1>
+![Cover Image](https://github.com/silvereon-rs/silvereon-rs/cover.jpg)
 
 <h3> 🛠&nbsp;My Tech Tools</h3>
 
@@ -44,7 +45,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-<p align="center">
+<p>
 <br>
 <a href="https://www.linkedin.com/in/silvereon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rajat.14101999@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
