@@ -9,8 +9,8 @@
 - 👀 Interested in Coding and Graphic Designing
 - 🌱 I’m currently learning Web Development
 - 💞️ Looking to collaborate on Coding, App Development and Web Development
-  </h4>
 <img align="right" height="170px" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+  </h4>
   </br>
 
 <h3> 🛠&nbsp;My Tech Tools</h3>
