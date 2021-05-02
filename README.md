@@ -2,8 +2,7 @@
 
 ![Cover Image](https://github.com/silvereon-rs/silvereon-rs/blob/main/cover.jpg)
 
-<h3> ⭐&nbsp;About Me</h3>
-<h4>  
+<h3> ⭐&nbsp;About Me</h3><h4>  
   
 - 💼 I'm a 3rd Year Computer Science and Engineering Student
 - 🎹 Also a part-time Pianist
