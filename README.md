@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajat Singh </h1>
 
-<h2> 🛠&nbsp;My Tech Tools</h3>
+<h3> 🛠&nbsp;My Tech Tools</h3>
 <p>
-<h3>
-- Web and App Development:
+<h4>
+- Web and App Development:</h4>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -40,7 +40,6 @@
   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-</h3>
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvereon-rs&include_all_commits=true&count_private=true&show_icons=true&hide=issues&line_height=20&title_color=ff2e57&icon_color=ff2e57&text_color=ffffff&bg_color=0,060C1C,060C1C" alt="Rajat's Github Stats">
 
