@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ Looking to collaborate on Coding, App Development and Web Development
   </h4>
+<img align="right" height="170px" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
   </br>
 
 <h3> 🛠&nbsp;My Tech Tools</h3>
@@ -56,7 +57,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/silvereon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rajat.14101999@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.hackerrank.com/silvereon"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>&nbsp;
@@ -64,7 +65,7 @@
 <a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>&nbsp;
 <a href="https://discord.gg/zTNwegCb"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
   </a>
-<img align="right" height="170px" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
 </p>
 </br>
 
