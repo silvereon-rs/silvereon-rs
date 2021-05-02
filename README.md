@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajat Singh </h1>
 
 ![Cover Image](https://github.com/silvereon-rs/silvereon-rs/blob/main/cover.jpg)
-<img align="right" height="20%" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<img align="right" height="10%" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 <h3> ⭐&nbsp;About Me</h3><h4>
   
 - 💼 I'm a 3rd Year Computer Science and Engineering Student
