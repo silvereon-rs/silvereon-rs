@@ -54,7 +54,8 @@
 <a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>&nbsp;
 <a href="https://discord.gg/zTNwegCb"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
  
-![Coding](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)
+![Coding](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
+</p>
 </br>
   
 - 👋 Hi, I’m @silvereon-rs
