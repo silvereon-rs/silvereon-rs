@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajat Singh </h1>
-![Cover Image](https://github.com/silvereon-rs/silvereon-rs/cover.jpg)
+![Cover Image](cover.jpg)
 
 <h3> 🛠&nbsp;My Tech Tools</h3>
 
