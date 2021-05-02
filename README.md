@@ -2,6 +2,16 @@
 
 ![Cover Image](https://github.com/silvereon-rs/silvereon-rs/blob/main/cover.jpg)
 
+<h3> 🌟&nbsp;About Me</h3>
+<h4>  
+  
+- 💼 I'm a 3rd Year Computer Science and Engineering Student
+- 🎹 Also a part-time Pianist
+- 👀 Interested in Coding and Graphic Designing
+- 🌱 I’m currently learning Web Development
+- 💞️ Looking to collaborate on Coding, App Development and Web Development
+  </h4>
+
 <h3> 🛠&nbsp;My Tech Tools</h3>
 
 -
@@ -57,14 +67,7 @@
 <img align="right" height="170px" alt="Code" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 </p>
 </br>
-<h4>  
-  
-- 💼 I'm a 3rd Year Computer Science and Engineering Student
-- 🎹 Also a part-time Pianist
-- 👀 Interested in Coding and Graphic Designing
-- 🌱 I’m currently learning Web Development
-- 💞️ Looking to collaborate on Coding, App Development and Web Development
-  </h4>
+
 <!---
 silvereon-rs/silvereon-rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
