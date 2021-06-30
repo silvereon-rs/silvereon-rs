@@ -62,9 +62,9 @@
 <a href="https://www.hackerrank.com/silvereon"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>&nbsp;
 <a href="https://www.instagram.com/silvereon.music/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp;
 <a href="https://www.youtube.com/RajatSinghPiano/"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>&nbsp;
-<a href="https://discord.gg/zTNwegCb"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;
-  </a>
-
+<a href="https://discord.gg/zTNwegCb"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>&nbsp;</a>
+<a href="https://www.behance.net/rajatsingh11"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>&nbsp;</a>
+  
 </p>
 </br>
 
